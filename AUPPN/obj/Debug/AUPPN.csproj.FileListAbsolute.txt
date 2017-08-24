@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\AUPPN\AUPPN\bin\Debug\AUPPN.exe.config
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\bin\Debug\AUPPN.exe.config
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\bin\Debug\AUPPN.exe
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\bin\Debug\AUPPN.pdb
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.csprojResolveAssemblyReference.cache
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form1.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Properties.Resources.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.csproj.GenerateResource.Cache
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.exe
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.pdb
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form2.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form3.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form4.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form5.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form6.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form7.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form8.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\RdlCompile.cache
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\RdlCompile.compiled
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form9.resources
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.Form10.resources
+H:\AUPPN\AUPPN\bin\Debug\AUPPN.exe.config
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.exe
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.pdb
+H:\AUPPN\AUPPN\bin\Debug\AUPPN.exe
+H:\AUPPN\AUPPN\bin\Debug\AUPPN.pdb
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.csprojResolveAssemblyReference.cache
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form1.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form10.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form2.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form3.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form4.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form5.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form6.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form7.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form8.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Form9.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.Properties.Resources.resources
+H:\AUPPN\AUPPN\obj\Debug\AUPPN.csproj.GenerateResource.Cache
+H:\AUPPN\AUPPN\obj\Debug\RdlCompile.cache
+H:\AUPPN\AUPPN\obj\Debug\RdlCompile.compiled
+D:\Учеба\Диплом\Приложение\AUPPN\AUPPN\obj\Debug\AUPPN.AboutBox1.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\bin\Debug\AUPPN.exe.config
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.exe
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.pdb
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\bin\Debug\AUPPN.exe
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\bin\Debug\AUPPN.pdb
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.csprojResolveAssemblyReference.cache
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.AboutBox1.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form1.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form10.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form2.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form3.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form4.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form5.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form6.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form7.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form8.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Form9.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.Properties.Resources.resources
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\AUPPN.csproj.GenerateResource.Cache
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\RdlCompile.cache
+D:\Рабочий стол 20062015\ПЗ\AUPPN\AUPPN\obj\Debug\RdlCompile.compiled
